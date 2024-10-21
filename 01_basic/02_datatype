@@ -1,0 +1,29 @@
+"use strict"; // treat all JS code as newer version 
+
+//alert ( 3 + 3 ) // we are using nodejs, not browser
+
+console.log (3+
+
+    3) // code readability should be high
+
+console.log ("manish")
+
+
+let name = "manish"
+let age = 25
+let isloggedIn = false
+
+
+// number => 2 to power of 53 range hai 
+// bigint => use for biger number eg trading fb yt
+// string => ""
+// boolean => true/false
+// null => is a standalone value 
+//undefined => value not assign 
+// symbol => unique
+
+
+// object
+
+console.log(typeof null); // object
+console.log(typeof undefined); // undefined 
